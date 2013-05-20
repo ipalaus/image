@@ -1,0 +1,20 @@
+{
+    "name": "ipalaus/image",
+    "description": "A simple image class that extends Gmagick.",
+    "keywords": ["image", "gmagick", "graphicsmagick"],
+    "homepage": "https://github.com/ipalaus/image",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Isern Palaus",
+            "email": "ipalaus@ipalaus.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-0": {
+            "Ipalaus": "src/"
+        }
+    },
+}
